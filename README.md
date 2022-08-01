@@ -1,4 +1,5 @@
-#TypeScript with React
+# TypeScript with React
+
 This is a project done using TypeScript wuth React.
 
 # Getting Started with Create React App
